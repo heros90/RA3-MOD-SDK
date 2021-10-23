@@ -39,7 +39,7 @@
 		SubGroupPriority="710" 
 		EditorSorting="UNIT"
 		HealthBoxHeightOffset="30"
-		BuildTime="1"
+		BuildTime="2"
 		CommandSet="AlliedAntiInfantryVehicleCommandSet"
 		KindOf="SELECTABLE CAN_ATTACK CAN_CAST_REFLECTIONS SCORE VEHICLE CAN_BE_FAVORITE_UNIT TRANSPORT AMPHIBIOUS"
 		RadarPriority="UNIT"
