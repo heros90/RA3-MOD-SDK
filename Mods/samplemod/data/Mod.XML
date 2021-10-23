@@ -97,7 +97,7 @@
 <!-- New logic commands and logic command sets-->
 		<Include type="all" source="DATA:SampleMod/Data/LogicCommand.xml"/>
                 <Include type="all" source="DATA:SampleMod/Data/LogicCommandSet.xml"/>
-                <Include type="all" source="DATA:SampleMod/Data/Terrain/Terrain.xml"/>
+   
                 <Include type="all" source="DATA:SampleMod/Data/Roads.xml"/>
                 
                 

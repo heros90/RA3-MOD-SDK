@@ -7,4 +7,13 @@
       <StreamReference ReferenceName="static.xml" ReferenceManifest="G:\RA3 MOD SDK\BuiltMods\sagexml\static.manifest" ReferenceConfiguration="" />
     </Configuration>
   </Stream>
+  <Stream Source="G:\RA3 MOD SDK\Mods\samplemod\data\aptui\TacticalHUDBuildQueuePage.xml">
+    <Configuration Name="" />
+  </Stream>
+  <Stream Source="G:\RA3 MOD SDK\Mods\samplemod\data\aptui\TacticalHUDCommandListBox.xml">
+    <Configuration Name="" />
+  </Stream>
+  <Stream Source="G:\RA3 MOD SDK\Mods\samplemod\data\aptui\TacticalHUDMainCommandBar.xml">
+    <Configuration Name="" />
+  </Stream>
 </BinaryAssetBuilderProject>

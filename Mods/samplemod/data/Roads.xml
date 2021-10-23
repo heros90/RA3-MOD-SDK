@@ -1731,6 +1731,14 @@
 		Priority="120" />
 
     <Road
+		id="CannesRoad02"
+		Texture="TRTwoLane6"
+                NormalTexture="TRTwoLane6"
+		RoadWidth="45"
+		RoadWidthInTexture="0.95"
+		Priority="120" />
+
+    <Road
 		id="CannesRoadMarking01"
 		Texture="CS_RoadMarking01"
 		RoadWidth="10"
@@ -1936,14 +1944,6 @@
 		RoadWidthInTexture="1.00"
 		Priority="139" />
 
-                <Road
-		id="AmsterdamRoad02"
-		Texture="TRTwoLane6"
-                NormalTexture="TRTwoLane6"
-		RoadWidth="60"
-		RoadWidthInTexture="1.00"
-		Priority="139" />
-
 		<Road
 		id="AMTireMarks01"
 		Texture="AM_TireMarks01"
@@ -2098,7 +2098,5 @@ Priority="135" />
 		RoadWidth="65"
 		RoadWidthInTexture="0.95"
 		Priority="60" />
-
-                
 
 </AssetDeclaration>
