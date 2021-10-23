@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Texture id="CW2_M1A3" File="CW2_M1A3.DDS"/>
+</AssetDeclaration>

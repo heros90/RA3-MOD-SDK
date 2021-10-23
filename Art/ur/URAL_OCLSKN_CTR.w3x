@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DContainer id="URAL_OCLSKN" Hierarchy="URAL_SKLOCL">
+		<SubObject SubObjectID="OBJECT10" BoneIndex="19">
+			<RenderObject>
+				<Mesh>URAL_OCLSKN.OBJECT10</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="OBJECT09" BoneIndex="18">
+			<RenderObject>
+				<Mesh>URAL_OCLSKN.OBJECT09</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="OBJECT08" BoneIndex="17">
+			<RenderObject>
+				<Mesh>URAL_OCLSKN.OBJECT08</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="OBJECT07" BoneIndex="16">
+			<RenderObject>
+				<Mesh>URAL_OCLSKN.OBJECT07</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="OBJECT06" BoneIndex="15">
+			<RenderObject>
+				<Mesh>URAL_OCLSKN.OBJECT06</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="OBJECT05" BoneIndex="14">
+			<RenderObject>
+				<Mesh>URAL_OCLSKN.OBJECT05</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="OBJECT04" BoneIndex="13">
+			<RenderObject>
+				<Mesh>URAL_OCLSKN.OBJECT04</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="OBJECT03" BoneIndex="12">
+			<RenderObject>
+				<Mesh>URAL_OCLSKN.OBJECT03</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="OBJECT02" BoneIndex="11">
+			<RenderObject>
+				<Mesh>URAL_OCLSKN.OBJECT02</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="OBJECT01" BoneIndex="10">
+			<RenderObject>
+				<Mesh>URAL_OCLSKN.OBJECT01</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="BOX10" BoneIndex="1">
+			<RenderObject>
+				<Mesh>URAL_OCLSKN.BOX10</Mesh>
+			</RenderObject>
+		</SubObject>
+	</W3DContainer>
+</AssetDeclaration>

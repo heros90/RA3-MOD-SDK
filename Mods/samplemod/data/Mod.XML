@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xi="http://www.w3.org/2001/XInclude">
+<Tags></Tags>
+<Includes>
+  <Include type="reference" source="DATA:static.xml" />
+  <Include type="reference" source="DATA:global.xml" />   
+  <Include type="reference" source="DATA:audio.xml" />
+
+<!-- EGYPT ARMY Structures -->
+
+  <Include source="DATA:SampleMod/Data/Allied/Structures/AlliedBarracks.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/Structures/AlliedAirfield.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/Structures/AlliedPowerPlant.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/Structures/AlliedWarFactory.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/Structures/AlliedRefinery.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/Structures/AlliedNavalYard.xml" type="all"/>
+
+
+<!-- EGYPT ARMY units -->
+
+  <Include source="DATA:SampleMod/Data/Allied/Units/AlliedMiner.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/Units/AlliedAntiInfantryVehicle.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/Units/AlliedAntiVehicleVehicleTech1.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/Units/AlliedAntiStructureVehicle.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/Units/AlliedAntiVehicleVehicleTech3.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/Units/SovietAntiStructureVehicle3.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/Units/EGYPTARMYM109.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/Units/AlliedAntiStructureVehicle2.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/Units/AlliedAntiVehicleVehicleTech4.xml" type="all"/>
+<!-- EGYPT ARMY NAVY -->
+
+  <Include source="DATA:SampleMod/Data/Allied/NAVY/AlliedAntiNavyShipTech1.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/NAVY/AlliedAntiNavyShipTech2.xml" type="all"/>
+
+
+<!-- EGYPT ARMY AIR -->
+
+  <Include source="DATA:SampleMod/Data/Allied/AIR/AlliedAntiGroundAircraft.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/AIR/AlliedBomberAircraft.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/AIR/AlliedBomberAircraft2.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/AIR/AlliedBomberAircraft3.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/AIR/AlliedSupportAircraft.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Allied/AIR/AlliedSupportAircraft2.xml" type="all"/>
+
+<!-- maps Buildings -->
+
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue01.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue02.xml" type="all"/>
+
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue03.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue04.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue05.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue06.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue07.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue08.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue09.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue10.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue11.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue12.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue13.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue14.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue15.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue16.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue17.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue18.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue19.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue20.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue21.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue22.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue23.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue24.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue25.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue26.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue27.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue28.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue29.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue30.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue31.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue32.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue33.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue34.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue35.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue36.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue37.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue38.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue39.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue40.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue41.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue42.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue43.xml" type="all"/>
+
+ 
+
+
+
+
+<!-- New logic commands and logic command sets-->
+		<Include type="all" source="DATA:SampleMod/Data/LogicCommand.xml"/>
+                <Include type="all" source="DATA:SampleMod/Data/LogicCommandSet.xml"/>
+                <Include type="all" source="DATA:SampleMod/Data/Terrain/Terrain.xml"/>
+                <Include type="all" source="DATA:SampleMod/Data/Roads.xml"/>
+                
+                
+             
+<!-- Global files -->
+
+</Includes>
+
+</AssetDeclaration>

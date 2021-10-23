@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DCollisionBox id="URAL_SKN.OBBOX" JoypadPickingOnly="false">
+		<Center X="-18.629463" Y="-64.305275" Z="15.444043"/>
+		<Extent X="37.005859" Y="16.382965" Z="15.444043"/>
+	</W3DCollisionBox>
+</AssetDeclaration>
