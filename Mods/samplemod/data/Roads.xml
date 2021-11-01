@@ -502,6 +502,10 @@
       type="instance"
       source="ART:CS_Road01.xml" />
 
+     <Include
+      type="instance"
+      source="ART:TRTwoLane6.xml" />
+
     <Include
       type="instance"
       source="ART:CS_Road01_NRM.xml" />

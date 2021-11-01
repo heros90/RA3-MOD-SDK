@@ -88,6 +88,26 @@
   <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue41.xml" type="all"/>
   <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue42.xml" type="all"/>
   <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue43.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue44.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue45.xml" type="all"/>
+  
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue46.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue47.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue48.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue49.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue50.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue51.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue52.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue53.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue54.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue55.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue56.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue57.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue58.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue59.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue60.xml" type="all"/>
+  <Include source="DATA:SampleMod/Data/Civilian/Heidelberg_HB/Buildings/HB_Statue61.xml" type="all"/>
+ 
 
  
 
@@ -97,8 +117,8 @@
 <!-- New logic commands and logic command sets-->
 		<Include type="all" source="DATA:SampleMod/Data/LogicCommand.xml"/>
                 <Include type="all" source="DATA:SampleMod/Data/LogicCommandSet.xml"/>
-   
-                <Include type="all" source="DATA:SampleMod/Data/Roads.xml"/>
+                <Include type="all" source="DATA:SampleMod/Data/LogicCommandSet.xml"/>
+                <Include type="all" source="DATA:SampleMod/Data/Terrain.xml"/>
                 
                 
              
